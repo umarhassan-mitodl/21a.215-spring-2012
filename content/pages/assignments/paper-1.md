@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: A description of the 1st paper.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
